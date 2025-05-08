@@ -1,3 +1,5 @@
-
-public class Circle extends Shape {
+public class Circle {
+    public int Area() {
+        return 2;
+    }
 }
