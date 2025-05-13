@@ -1,4 +1,4 @@
-public class Square extends Rectangle {
+public class Square extends Rectangle implements IShape  {
     int height = 5;
     int width = 5;
 

@@ -1,4 +1,4 @@
-public class Shape {
+public class Shape implements IShape {
     int height = 5;
     int width = 5;
 
